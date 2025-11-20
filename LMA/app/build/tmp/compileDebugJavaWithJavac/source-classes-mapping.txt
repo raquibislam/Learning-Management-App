@@ -1,0 +1,53 @@
+com/mastercoding/lma/model/CourseShopRepository.java
+ com.mastercoding.lma.model.CourseShopRepository
+ com.mastercoding.lma.model.CourseShopRepository$1
+ com.mastercoding.lma.model.CourseShopRepository$2
+ com.mastercoding.lma.model.CourseShopRepository$3
+ com.mastercoding.lma.model.CourseShopRepository$4
+ com.mastercoding.lma.model.CourseShopRepository$5
+ com.mastercoding.lma.model.CourseShopRepository$6
+com/mastercoding/lma/databinding/ActivityAddEditBinding.java
+ com.mastercoding.lma.databinding.ActivityAddEditBinding
+com/mastercoding/lma/DataBindingTriggerClass.java
+ com.mastercoding.lma.DataBindingTriggerClass
+com/mastercoding/lma/model/Category.java
+ com.mastercoding.lma.model.Category
+com/mastercoding/lma/databinding/SpinnerItemBinding.java
+ com.mastercoding.lma.databinding.SpinnerItemBinding
+com/mastercoding/lma/CourseDiffCallback.java
+ com.mastercoding.lma.CourseDiffCallback
+com/mastercoding/lma/CourseAdapter.java
+ com.mastercoding.lma.CourseAdapter
+ com.mastercoding.lma.CourseAdapter$CourseViewHolder
+ com.mastercoding.lma.CourseAdapter$CourseViewHolder$1
+ com.mastercoding.lma.CourseAdapter$OnItemClickListener
+com/mastercoding/lma/databinding/ActivityMainBinding.java
+ com.mastercoding.lma.databinding.ActivityMainBinding
+com/mastercoding/lma/model/CourseDAO.java
+ com.mastercoding.lma.model.CourseDAO
+com/mastercoding/lma/model/CategoryDAO.java
+ com.mastercoding.lma.model.CategoryDAO
+com/mastercoding/lma/viewmodel/MainActivityViewModel.java
+ com.mastercoding.lma.viewmodel.MainActivityViewModel
+com/mastercoding/lma/BuildConfig.java
+ com.mastercoding.lma.BuildConfig
+com/mastercoding/lma/databinding/CourseListItemBinding.java
+ com.mastercoding.lma.databinding.CourseListItemBinding
+com/mastercoding/lma/model/Course.java
+ com.mastercoding.lma.model.Course
+com/mastercoding/lma/AddEditActivity.java
+ com.mastercoding.lma.AddEditActivity
+ com.mastercoding.lma.AddEditActivity$AddAndEditActivityClickHandlers
+com/mastercoding/lma/databinding/ContentMainBinding.java
+ com.mastercoding.lma.databinding.ContentMainBinding
+com/mastercoding/lma/MainActivity.java
+ com.mastercoding.lma.MainActivity
+ com.mastercoding.lma.MainActivity$1
+ com.mastercoding.lma.MainActivity$2
+ com.mastercoding.lma.MainActivity$3
+ com.mastercoding.lma.MainActivity$4
+ com.mastercoding.lma.MainActivity$MainActivityClickHandlers
+com/mastercoding/lma/model/CourseDatabase.java
+ com.mastercoding.lma.model.CourseDatabase
+ com.mastercoding.lma.model.CourseDatabase$1
+ com.mastercoding.lma.model.CourseDatabase$2
